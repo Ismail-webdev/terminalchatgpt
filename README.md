@@ -10,7 +10,7 @@ This PHP script is a simple terminal-based calculator that interacts with the us
 - Friendly prompts and error handling for invalid inputs.
 
 ## Example Interaction
-```bash
+```vbnet
 Terminal chatgpt for basic maths: 'Say Hello to Start' 
 hello
 ...
