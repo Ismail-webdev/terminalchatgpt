@@ -26,3 +26,5 @@ What you want to do with these numbers (Sum,Sub,Multi).
 sum
 The Sum of your values is 15
 ```
+## ScreenShot
+![Demo](https://raw.githubusercontent.com/Ismail-webdev/terminalchatgpt/refs/heads/main/terminalchatgpt.png)
